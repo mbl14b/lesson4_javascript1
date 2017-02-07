@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (This assignment was about working with the basics of Javscript. I added basic Javascript to my webpages, stored and tracked info with variables, used objects that work with data, coded control statements, worked with arrays&functions, and accessed developer tools/DOM/debugging Javascript.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://mbl14b.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
 1. (Javascript is the most popular scripting language that is used in millions of web pages all over to do a number of things like improve design/appearance, validate forms, detect browsers and create cookies. It works in all major browsers on the internet. Almost anyone can use Javascript without getting a license. )
